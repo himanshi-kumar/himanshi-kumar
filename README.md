@@ -6,7 +6,7 @@
 
 Currently learning, experimenting, making mistakes, fixing them, and slowly getting better every day. 💻☕✨
 
-- 🔭 **Currently working on:** Enterprise HR AI Platform 🤖
+- 🔭 **Currently working on:** AcadFlow: Unified Academic Platform 🎓
 - 🌱 **Currently learning:** Machine Learning, AI, LangGraph & MLOps
 - 💡 **Interested in:** AI/ML • Data Science • Software Development
 - 👯 **Looking to collaborate on:** AI/ML & interesting student projects
@@ -42,6 +42,7 @@ Currently learning, experimenting, making mistakes, fixing them, and slowly gett
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🤖 AI / Machine Learning
 
@@ -54,7 +55,11 @@ Currently learning, experimenting, making mistakes, fixing them, and slowly gett
 
 ### 🌐 Development & Tools
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -70,20 +75,22 @@ Currently learning, experimenting, making mistakes, fixing them, and slowly gett
 
 # 🌷 Featured Project
 
-## 💼 Enterprise HR AI
+## 🎓 AcadFlow: Unified Academic Platform
 
-An AI-powered **Workforce Intelligence Platform** built to explore how AI can support modern HR decisions.
+An all-in-one **academic intelligence and workflow platform** with an early-warning risk radar, subject-level attendance planning, and streamlined faculty management. It helps students catch attendance shortfalls *before* it's too late, and gives faculty a one-click way to manage attendance, schedules, and notices.
 
-✨ Attrition Prediction  
-✨ Skill Gap Analysis  
-✨ Career Intelligence  
-✨ Personalized Recommendations  
-✨ AI Assistant  
-✨ SHAP Explainability  
-✨ LangGraph + RAG
+✨ Early-Warning ML Risk Engine (Gradient Boosted Classifier)  
+✨ Faculty Attendance: Tick-Circle Roster & Excel/CSV Upload  
+✨ Subject-Wise Attendance with Margin Buffers  
+✨ Interactive Calendar & Proactive Leave Planner  
+✨ Notice Board & Weekly Timetable with Clash Detection  
+✨ Role-Based Access: Student, Faculty, Coordinator, Admin  
+✨ Secure Auth: RBAC, JWT Rotation, Lockout & CSRF Protection
 
 **Built with:**  
-`Python` `Scikit-learn` `FastAPI` `Streamlit` `LangGraph` `RAG` `SHAP` `MLflow` `Docker`
+`Python` `FastAPI` `React` `Vite` `TanStack Query` `PostgreSQL` `SQLAlchemy` `Pydantic` `Docker` `Pytest`
+
+🔗 [View on GitHub](https://github.com/rishita1404/AcadFlow)
 
 ---
 
